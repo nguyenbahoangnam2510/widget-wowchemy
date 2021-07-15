@@ -1,3 +1,3 @@
-module github.com/<USERNAME>/wowchemy-widget-nam-ba
+module github.com/nguyenbahoangnam2510/wowchemy-widget-nam-ba
 
 go 1.15
